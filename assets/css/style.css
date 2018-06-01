@@ -37,3 +37,31 @@
 .background-selected {
 	background-color: gray
 }
+
+.card1 {
+	position: relative;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	/*background: gray;*/
+	color: lightgray
+}
+
+.phone {
+	position: absolute;
+	height: 40%;
+	width: auto;
+	margin-top: 10%;
+	margin-left: -15%;
+}
+
+.gif-mobile {
+	position: absolute;
+	height: 30%;
+	width: auto;
+	margin-top: -47%;
+	margin-left: -10.3%;
+}
