@@ -1,0 +1,83 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.me-wrap {
+	color: white;
+	/*text-align: right;*/
+}
+
+.me {
+	/*align-self: right;*/
+	border-radius: 100%;
+	height: 100px;
+	width: 100px;
+}
+
+.name,
+.webDev,
+.skills {
+	color: lightgray;
+}
+
+.borderControl {
+	border-radius: 0%;
+}
+
+.nav-header {
+	background-color: white;
+}
+
+.nav-header-text {
+	font-size: 20px;
+}
+
+.background-selected {
+	background-color: gray
+}
+
+.card1 {
+	position: relative;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	/*background: gray;*/
+	color: lightgray
+}
+
+.phone {
+	position: absolute;
+	height: 40%;
+	width: auto;
+	margin-top: 10%;
+	margin-left: -15%;
+}
+
+.gif-mobile {
+	position: absolute;
+	height: 30%;
+	width: auto;
+	margin-top: -46%;
+	margin-left: -9.5%;
+}
+
+#loritess-image {
+	position: absolute;
+	height: 30%;
+	width: auto;
+	margin-top: -52%;
+	margin-left: -9%;
+}
+
+#foody-image {
+	position: absolute;
+	height: 30%;
+	width: auto;
+	margin-top: -39%;
+	margin-left: -10%;
+}
